@@ -1,0 +1,228 @@
+[
+  {
+    "id": "beats-studio-pro",
+    "name": "Beats Studio Pro",
+    "category": "audifonos",
+    "categoryLabel": "Audífonos",
+    "price": 220,
+    "emoji": "🎧",
+    "condition": "new",
+    "badge": "Destacado",
+    "badgeType": "gold",
+    "inStock": true,
+    "desc": "Audífonos over-ear con cancelación de ruido activa personalizada, sonido espacial y hasta 40 horas de batería.",
+    "features": [
+      "Cancelación de ruido activa personalizada (ANC)",
+      "Hasta 40 horas de batería con ANC activado",
+      "Sonido espacial con seguimiento de cabeza dinámico",
+      "Compatible con Apple y Android",
+      "Carga rápida: 10 min = 4 horas"
+    ],
+    "includes": [
+      "Audífonos Beats Studio Pro",
+      "Cable USB-C a 3.5mm",
+      "Cable USB-C a USB-C",
+      "Estuche rígido"
+    ],
+    "images": []
+  },
+  {
+    "id": "ps4-liberada",
+    "name": "PlayStation 4 Liberada",
+    "category": "consolas",
+    "categoryLabel": "Consolas",
+    "price": 220,
+    "emoji": "🎮",
+    "condition": "used",
+    "badge": "Usado",
+    "badgeType": "used",
+    "inStock": true,
+    "desc": "PlayStation 4 liberada y lista para jugar. Consola en excelente estado, verificada antes de la venta.",
+    "features": [
+      "Liberada — compatible con todos los juegos",
+      "Almacenamiento 500GB",
+      "Wi-Fi integrado",
+      "Probada y verificada"
+    ],
+    "includes": [
+      "Consola PS4",
+      "1 control DualShock 4",
+      "Cable HDMI",
+      "Cable de alimentación"
+    ],
+    "images": []
+  },
+  {
+    "id": "google-home",
+    "name": "Google Home",
+    "category": "smart",
+    "categoryLabel": "Smart Home",
+    "price": 25,
+    "emoji": "🏠",
+    "condition": "new",
+    "badge": "Destacado",
+    "badgeType": "gold",
+    "inStock": true,
+    "desc": "Bocina inteligente con Google Assistant. Controlá tu hogar, reproducí música y más con tu voz.",
+    "features": [
+      "Google Assistant integrado",
+      "Control de dispositivos inteligentes",
+      "Reproducción de música Spotify, YouTube Music",
+      "Alarmas y recordatorios"
+    ],
+    "includes": [
+      "Google Home",
+      "Adaptador de alimentación",
+      "Guía de inicio rápido"
+    ],
+    "images": []
+  },
+  {
+    "id": "google-nest-hub",
+    "name": "Google Nest Hub 2da Gen",
+    "category": "smart",
+    "categoryLabel": "Smart Home",
+    "price": 70,
+    "emoji": "📱",
+    "condition": "new",
+    "badge": "Destacado",
+    "badgeType": "gold",
+    "inStock": true,
+    "desc": "Centro de control para hogar inteligente con pantalla táctil de 7 pulgadas y sensor de sueño.",
+    "features": [
+      "Pantalla táctil 7 pulgadas",
+      "Google Assistant integrado",
+      "Sensor de sueño sin wearable",
+      "YouTube, Spotify, Google Fotos"
+    ],
+    "includes": [
+      "Google Nest Hub 2da Gen",
+      "Cable de alimentación"
+    ],
+    "images": []
+  },
+  {
+    "id": "jbl-charge5",
+    "name": "JBL Charge 5",
+    "category": "bocinas",
+    "categoryLabel": "Bocinas Portátiles",
+    "price": 95,
+    "emoji": "🔊",
+    "condition": "new",
+    "badge": "Nuevo",
+    "badgeType": "",
+    "inStock": true,
+    "desc": "Bocina Bluetooth portátil IP67 con 20 horas de batería y función de carga de dispositivos.",
+    "features": [
+      "IP67 resistente al agua y polvo",
+      "20 horas de batería",
+      "Carga de dispositivos externos",
+      "JBL PartyBoost"
+    ],
+    "includes": [
+      "Bocina JBL Charge 5",
+      "Cable USB-C"
+    ],
+    "images": []
+  },
+  {
+    "id": "anker-powerbank",
+    "name": "Anker PowerCore 20000",
+    "category": "baterias",
+    "categoryLabel": "Baterías Portátiles",
+    "price": 42,
+    "emoji": "🔋",
+    "condition": "new",
+    "badge": "Nuevo",
+    "badgeType": "",
+    "inStock": true,
+    "desc": "Batería portátil de 20,000mAh. Cargá tu teléfono hasta 5 veces.",
+    "features": [
+      "20,000mAh de capacidad",
+      "Carga hasta 5 veces tu celular",
+      "2 puertos USB-A + 1 USB-C"
+    ],
+    "includes": [
+      "PowerCore 20000",
+      "Cable micro USB"
+    ],
+    "images": []
+  },
+  {
+    "id": "tp-link-deco",
+    "name": "TP-Link Deco M4 (×2)",
+    "category": "redes",
+    "categoryLabel": "Redes / Mesh",
+    "price": 75,
+    "emoji": "📡",
+    "condition": "new",
+    "badge": "Nuevo",
+    "badgeType": "",
+    "inStock": true,
+    "desc": "Sistema WiFi Mesh doble banda. Cubre hasta 260m² con señal fuerte en toda la casa.",
+    "features": [
+      "Cobertura 260m² con 2 unidades",
+      "Doble banda AC1200",
+      "Roaming inteligente",
+      "Control parental"
+    ],
+    "includes": [
+      "2 unidades Deco M4",
+      "2 cables Ethernet",
+      "2 adaptadores"
+    ],
+    "images": []
+  },
+  {
+    "id": "auto-rc-offroad",
+    "name": "Auto RC Off-Road 4x4",
+    "category": "otros",
+    "categoryLabel": "Otros",
+    "price": 45,
+    "emoji": "🚗",
+    "condition": "new",
+    "badge": "Nuevo",
+    "badgeType": "",
+    "inStock": true,
+    "desc": "Auto a control remoto 4x4 con tracción total para terrenos difíciles. Alta velocidad, ruedas grandes.",
+    "features": [
+      "Tracción 4x4",
+      "Velocidad máxima 30 km/h",
+      "Control 2.4GHz hasta 80m",
+      "Batería recargable"
+    ],
+    "includes": [
+      "Auto RC 4x4",
+      "Control remoto",
+      "Batería",
+      "Cargador USB"
+    ],
+    "images": []
+  },
+  {
+    "id": "drone-mini",
+    "name": "Drone Mini HD",
+    "category": "otros",
+    "categoryLabel": "Otros",
+    "price": 65,
+    "emoji": "🚁",
+    "condition": "new",
+    "badge": "Nuevo",
+    "badgeType": "",
+    "inStock": true,
+    "desc": "Drone compacto con cámara HD, hover automático y control WiFi desde tu celular.",
+    "features": [
+      "Cámara HD 720p",
+      "Hover automático",
+      "Control app Android/iOS",
+      "15 min de vuelo por carga"
+    ],
+    "includes": [
+      "Drone Mini HD",
+      "Control remoto",
+      "2 baterías",
+      "Hélices de repuesto"
+    ],
+    "images": []
+  }
+]
